@@ -6,9 +6,8 @@ public class Participants {
         // INSTRUCTIONS: Add your name and GitHub username below 
         // using the greet() method.
         
-        greet("Professor", "Yungel1");
-        // Your code goes here:
-        
+        greet("Adrian", "Yungel1");
+        greet("Mikel", "Midoiaga");
     }
 
     public static void greet(String name, String githubUser) {
