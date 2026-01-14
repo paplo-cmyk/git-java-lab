@@ -54,7 +54,7 @@ It is best practice to never work directly on `main`. Create a branch for a new 
 git checkout -b my-solo-test
 ```
 
-> **Note:** The command `git checkout -b name` is a shortcut that does two things at once:
+> **Note:** The command `git checkout -b my-solo-test` is a shortcut that does two things at once:
 > 1. `git branch my-solo-test` (Creates the branch)
 <p align="center">
   <img src="images/GIT_Branch.png" width="50%">
