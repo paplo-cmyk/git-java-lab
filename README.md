@@ -3,7 +3,7 @@
 Welcome! The goal of today's session is to master the **Git Terminal** workflow. You will first learn how to manage your own project locally and then contribute to a shared repository via a Pull Request.
 
 <p align="center">
-  <img src="images/GIT_GitFull.png" width="75%">
+  <img src="images/GIT_GitFull.png" width="85%">
 </p>
 
 ---
