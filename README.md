@@ -147,8 +147,9 @@ git push origin your-name-surname
 
 ### 5. Open the Pull Request
 1. Go to **your fork** on the GitHub website.
-2. Look for a notification bar that says **"Compare & pull request"** and click it.
-3. Click the green **"Create pull request"** button.
+2. Change the branch to the one you have already created.
+3. Look for a notification bar that says **"Compare & pull request"** and click it.
+4. Click the green **"Create pull request"** button.
 
 <p align="center">
   <img src="images/GIT_PullRequest.png" width="60%">
